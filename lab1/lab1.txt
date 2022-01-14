@@ -1,0 +1,16 @@
+1. https://github.com/aaronz1999
+2. version 2.18.4
+3. version 2.27.1
+4. virtual environment is a running a later version of requests
+5. 301 Moved Permanently Location: http://www.google.com/
+6. 418 I'm a Teapot
+7. when used -X POST, 
+	HTTP/1.1 200 OK
+	Date: Fri, 14 Jan 2022 10:45:20 GMT
+	Server: Apache/2.4.6 (CentOS)
+	Connection: close
+	Transfer-Encoding: chunked
+	Content-Type: text/html; charset=UTF-8. 
+is eliminated 
+This method is useful for sending a post request.
+8. https://raw.githubusercontent.com/aaronz1999/CMPUT404/main/lab1/lab1.py
