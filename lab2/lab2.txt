@@ -1,1 +1,6 @@
-
+1. using socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+2. Client socket is used for making the connection, not the server socket. Server socket will also specify port whereas client socket does not
+3. s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+4. it shows the ip address and port of the server
+5. it receives empty byte string, and recv() will return data received
+6. https://github.com/aaronz1999/CMPUT404/tree/main/lab2
